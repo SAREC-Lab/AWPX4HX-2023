@@ -19,6 +19,9 @@ Describe them here. Create a table and add icons from your ppt presentation.
 Provide an example
 
 # Flight logs
+All flight logs are currently available on google drive, but will be reorganized and ported to github shortly.
+[flight logs](https://drive.google.com/drive/folders/1DoAreav--ewsFONFb40o4TuOCK8ZddvQ)
+
 @Nafee, let's discuss this. I would suggest a table format which summarizes each flight log very cleanly and provides a link to the logs.px4 and a downloadable zip file.  (You can add more later, but I think that is best for this intermediate release).  The table should be really informative.
 
 
