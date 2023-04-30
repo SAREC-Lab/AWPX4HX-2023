@@ -1,12 +1,28 @@
 # AWPX4HX-2023
-All weather, PX4, Hexacopter, 2023 Annotated flight logs with descriptions.
+This collection of all weather, PX4, Hexacopter, 2023 Annotated flight logs is a work in progress. The dataset will be continually updated and released as a standard benchmark dataset by December 15th, 2023. However, we make it available for use in the meanwhile. 
 
 @Nafee, you need to create something like this:
 https://github.com/SAREC-Lab/sUAS-UseCases/edit/FSE2021-HumanInteractionHazards/README.md
 
 For convenience, I've copied that markdown file below:
 
-# Hazard Identification and Mitigation for Human-Drone Interactions
+# Flight log attributes
+
+Describe the attributes here. 
+
+# Environmental attributes
+
+Describe them here. Create a table and add icons from your ppt presentation.
+
+# Annotated Anomalies with Explanation
+
+Provide an example
+
+# Flight logs
+@Nafee, let's discuss this. I would suggest a table format which summarizes each flight log very cleanly and provides a link to the logs.px4 and a downloadable zip file.  (You can add more later, but I think that is best for this intermediate release).  The table should be really informative.
+
+
+@Nafee, the following is just an example from another page we created
 
 The following hazards have been derived from a systematic study of publications reporting safety analyses techniques applied to the domain of small Unmanned Aerial Vehicles. They are supported by a [glossary of terms](glossary.md).  We are currently [eliciting feedback](feedback.md) on this hazard trees.
 
